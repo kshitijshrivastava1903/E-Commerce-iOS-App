@@ -38,7 +38,7 @@
 <li>Developed an E - Commerce iOS Application that lets users, authenticated through Firebase, add items for different categories like home decor, pets, Automobile, Camera, Electronics etc.(as sellers) </li>
 <li>For every item, specific users can add the item name, price, description and upload images. Users (as customers) can create their own cart for their email ID, add the items and sync their cart items through Firebase.</li> 
 <li> Cart displays the the items added, total price and number of items, enables users place orders, reflected in the backend firebase database.</li>
-<li> Swift programming along with Storyboards (for developing UI of app) was used to develop the app </li>
+<li> Swift programming language along with Storyboards (for developing UI of app) was used to develop the app </li>
 </ul> 
  
  
