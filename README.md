@@ -23,6 +23,11 @@
  ### CART VIEW LOGIN PAGE - Show the cart of the currently logged in user, or ask the user to login, if logged out.
  
  <br></br>
+![](Login_View_Username_Password.png)
+ 
+ ### LOGIN PAGE - Lets users create an account, verified through a link sent in email through firebase authentication and log in to sync their cart items. 
+ 
+ <br></br>
 ![](Cart_View_User_ID_1.png)
  
  ### CART VIEW PAGE - Show the cart of the currently logged in user, and his user ID, assigned through firebase.
